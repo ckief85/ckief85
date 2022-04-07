@@ -2,8 +2,8 @@
 - 🗣️ Pronouns: He/Him/They ♂️
 - 👽 Race: Human
 - 👀 I’m interested in Music, Philosophy, Cognitive Science, to name the tops
-- 📚 I'm currently reading - [The Collected Works of Jane Austen - currently, Sense and Sensiblity](https://en.wikipedia.org/wiki/Sense_and_Sensibility), [Bless Me, Ultima](https://en.wikipedia.org/wiki/Bless_Me,_Ultima)
-- 🌱 I’m currently learning software licensing
+- 📚 I'm currently reading - Still working on this one [The Collected Works of Jane Austen - currently, Sense and Sensiblity](https://en.wikipedia.org/wiki/Sense_and_Sensibility), [Blood Meridian - Cormac McCarthy](https://en.wikipedia.org/wiki/Blood_Meridian)
+- 🌱 I’m currently learning Migrations To Fusion Auth
 - 💞️ I’m looking to collaborate on anything! Always open to new learning opportunities.
 - 📫 Best way to reach me is via email ckief85@yahoo.com or via [Linkedin](linkedin.com/in/chriskieffer)
 
